@@ -1,0 +1,3 @@
+if (!pain) {
+	gain=null;
+}
